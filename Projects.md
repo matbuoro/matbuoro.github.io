@@ -44,7 +44,7 @@ The code of the LETM as well as an example of data are available in a github rep
 
 ---
 
-# Population dynamic and conservation 
+# Population dynamic, biological invasion and conservation 
 
 
 * **Dynamics of threatened steelhead juveniles (_Oncorhynchus mykiss_) in a seasonally fragmented stream habitat**  
@@ -58,13 +58,13 @@ Starting May 2014, I will work in the Evolution and Biological Diversity laborat
 
 ---
 
-# Movement ecology  
+# Simulating evolutionary processes & Movement ecology  
 
 
 In the Pr Wayne Getz Lab ([Link](http://nature.berkeley.edu/getzlab/index.html)) at UC Berkeley and as a science team member in the Nova platform ([Link](http://www.novamodeler.com/team/)), I'm working on 2 projects using Individual-Based Model:  
 
-* **Modeling movement and foraging strategies of Vultures**  
+* **Investigating foraging strategies of Vultures**  
 
-* **Modeling movement and detection by camera-trapping of wallabies**   
+* **Simulating detection process by camera-trapping**   
 
 ---
