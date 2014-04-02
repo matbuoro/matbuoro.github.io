@@ -17,9 +17,9 @@ I'm particularly interested by _integrative approach_, e.g. integrating within a
 
 
 For that purpose, I developed skills in quantitative biology (or computational biology), including familiarity with Individual-Based Modeling and Hierarchical Bayesian Modeling to explore complex models (state-space modeling, structural equation modeling, and quantitative genetics methods). Within these frameworks, one can confront theories and concepts in evolutionary biology with observational data through appropriate statistical tools.  
+  
 
-
-Keywords:  
+_Keywords:_    
 Eco-Evolutionary dynamic, Evolution of life histories & Life history strategies, dispersal strategies, Quantitative ecology.  
 
 
