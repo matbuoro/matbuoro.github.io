@@ -1,30 +1,28 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
+title: My research interests
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
-comments: true
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: texture-feature-08.jpg
+  credit: Mathieu Buoro
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+# Interests:  
+Eco-Evolutionary dynamic, Evolution of life histories & Life history strategies, dispersal strategies, Quantitative ecology.
 
-## Minimal Mistakes is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+# Current position:  
+Posdoctoral fellow at the University of California, Berkeley.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+My primary research goals are directed toward investigating eco-evolutionary dynamics in the wild. 
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+It involves the study of adaptation of organisms to environmental change through life history strategies, life history evolution, dispersal strategies and evolutionary processes in the wild.  
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+
+I have strong skills in quantitative biology, including familiarity with Hierarchical Bayesian Modeling to explore complex model, state-space modeling, structural equation modeling, and quantitative genetics methods.  
+
+
+I have explored evolutionary process in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditional strategies) while estimating associated demographic parameters (survival, migration). I also have experience in quantitative genetic methods with the estimations of heritability combining CR methods and animal model. My futur research plans are aimed at investigating eco-evolutionary dynamics among organisms from data collected in the wild.

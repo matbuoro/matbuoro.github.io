@@ -1,0 +1,62 @@
+---
+layout: page
+permalink: /Publications/
+title: Publications
+tagline: Minimal Mistakes, a Jekyll Theme
+tags: [about, Jekyll, theme, responsive]
+modified: 9-9-2013
+image:
+  feature: texture-feature-05.jpg
+  credit: Mathieu Buoro
+---
+
+
+## In Press or Submitted
+
+**Buoro M.**, and S.M. Carlson. Life-history syndromes : integrating dispersal through space or time. *Ecology Letters* (Accepted).  
+
+___
+
+Corey C. P., J. W. Moore, **Buoro M.**, S. A. Hayes, J.C. Garza and D. E. Pearse. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, _Oncorhynchus mykiss_. (Submitted)
+
+___
+
+**Buoro M.**, Prévost E. and O. Gimenez. Explicit modelling of proximate mechanisms for revealing life-history trade-offs in wild conditions. (In prep.)
+
+___
+
+**Buoro M.**, Hwan J.L. and S.M. Carlson. Investigating the selective survival of threatened steelhead juveniles (_Oncorhynchus mykiss_) during summer low flow period using fitness surfaces and capture-recapture data. (In prep.)
+
+___
+
+## Published
+
+Gimenez O., Abadie F., Barnagaud J.Y., Blanc L., **Buoro M.**, Cubaynes S. et al., 2012. How can quantitative ecology be attractive to young scientists? Balancing computer/desk work with field work. *Animal Conservation*, 16:134-136. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-1795.2012.00597.x/abstract)  
+
+___
+
+**Buoro M.**, Prévost E. and O. Gimenez, 2012. Digging through model complexity: using hierarchical models to uncover evolutionary processes in the wild. *Journal of Evolutionary Biology*, 25(10): 2077–2090. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2012.02590.x/abstract)  
+
+___
+
+**Buoro M.**, Gimenez O., and E. Prévost, 2012. Assessing adaptive phenotypic plasticity by means of conditional strategies from empirical data: the latent environmental threshold model. *Evolution*, 66(4):996-1009. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01484.x/abstract)  
+
+___
+
+Charmantier A., **Buoro M.**, Gimenez O. and H. Weimerskirch, 2011. Heritability of short-scale natal dispersal in a large-scale foraging bird, the wandering albatross. *Journal of Evolutionary Biology*, 24(7): 1487-1496. (These authors contributed equally to the work). [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2011.02281.x/abstract)  
+
+___
+
+Lane J. E., Kruuk L. E. B., Charmantier A., Murie J. O., Coltman D. W., **Buoro M.**, Raveh S. and F. S. Dobson, 2011. Heritability of hibernation emergence date in a wild population of Columbian ground squirrels.  *Journal of Evolutionary Biology*, 24(9): 1949-1959. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2011.02334.x/abstract)  
+
+___
+
+Servanty T.P., Choquet R., Baubet E., Brandt S., Gaillard J.M., Schaub M., Toïgo C., Lebreton J. D., **Buoro M.** and O. Gimenez, 2010. Assessing whether mortality is additive using marked animals: a Bayesian state-space modeling approach. *Ecology*, 91(7):1916-23. [Link](http://www.esajournals.org/doi/abs/10.1890/09-1931.1)  
+
+___
+
+Papaix J., Cubaynes S., **Buoro M.**, Charmantier A., Perret P. and O. Gimenez, 2010. Combining capture-recapture data and pedigree information to assess heritability of demographic parameters in the wild. *Journal of Evolutionary Biology*, 23(10):2176-84. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2010.02079.x/abstract)  
+
+___
+
+**Buoro M.**, Prévost E. and O. Gimenez, 2010. Investigating Evolutionary Trade-Offs in Wild Populations of Atlantic Salmon (*Salmo Salar*): Incorporating Detection Probabilities and Individual Heterogeneity. *Evolution*, 64(9):2629-42. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01029.x/abstract)  

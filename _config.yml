@@ -1,19 +1,18 @@
-title:            Site Title
-description:      Describe your website.
+title:            Mathieu Buoro
+description:      Mathieu Buoro
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
-disqus_shortname: 
 
 # Owner/author information
-owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+owner: 
+  name:           Mathieu Buoro
+  avatar:         bio-photo2.jpg
+  bio:            Postdoctoral Researcher at UC Berkeley
+  email:          matbuoro@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter:   matbuoro     
   facebook:       
-  github:         
+  github:    matbuoro.github.io    
   stackoverflow: 
   linkedin:       
   instagram:      
@@ -35,23 +34,28 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  #- title: Research interests
+  #  url: /about/
+  - title: Projects
+    url: /Projects/
+  - title: Publications
+    url: /Publications/
+  #- title: Posts
+  #  url: /posts/
+  - title: Code
+    url: https://github.com/matbuoro
     external: true
+  #- title: CV
+  #  url: https://github.com/matbuoro/CV/blob/master/pdfs/cv_buoro_en.pdf
+  # external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# https://github.com/matbuoro/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
 kramdown:
@@ -70,3 +74,22 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: /_bibliography/
+  bibliography: bibliography
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
