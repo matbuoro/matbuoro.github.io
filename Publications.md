@@ -13,7 +13,7 @@ image:
 
 ## In Press or Submitted
 
-**Buoro M.**, and S.M. Carlson. Life-history syndromes : integrating dispersal through space or time. *Ecology Letters* (Accepted).  
+**Buoro M.**, and S.M. Carlson. Life-history syndromes : integrating dispersal through space or time. *Ecology Letters* (In press).  [Link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12275/abstract)  
 
 ___
 

@@ -49,7 +49,12 @@ The code of the LETM as well as an example of data are available in a github rep
 
 * **Dynamics of threatened steelhead juveniles (_Oncorhynchus mykiss_) in a seasonally fragmented stream habitat**  
 
-We use a state-spaced model to investigate the selective survival of a steelhead juveniles during drought period using Capture-recapture data. We hypothesize that the summer drought season may represent a population bottleneck, and that years of poor juvenile survival will translate to poor adult returns for that cohort.
+We use a state-spaced model to investigate the selective survival of a steelhead juveniles during drought period using Capture-recapture data. We hypothesize that the summer drought season may represent a population bottleneck, and that years of poor juvenile survival will translate to poor adult returns for that cohort.  
+
+
+* **Causes and consequences of invasions of aquasystems by non-native salmonids**  
+
+Starting May 2014, I will work in the Evolution and Biological Diversity laboratory (Aquatic Ecology and Global Change Lab) with Julien Cucherousset ([Link](http://www.juliencucherousset.fr/file/Home.html)). 
 
 ---
 
@@ -61,14 +66,5 @@ In the Pr Wayne Getz Lab ([Link](http://nature.berkeley.edu/getzlab/index.html))
 * **Modeling movement and foraging strategies of Vultures**  
 
 * **Modeling movement and detection by camera-trapping of wallabies**   
-
----
-
-# Biological Invasion  
-
-
-* **Causes and consequences of invasions of aquasystems by non-native salmonids**  
-
-Starting May 2014, I will work in the Evolution and Biological Diversity laboratory (Aquatic Ecology and Global Change Lab) with Julien Cucherousset ([Link](http://www.juliencucherousset.fr/file/Home.html)). 
 
 ---
