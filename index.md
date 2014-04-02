@@ -20,7 +20,7 @@ For that purpose, I developed skills in quantitative biology (or computational b
   
 
 _Keywords:_    
-Eco-Evolutionary dynamic, Evolution of life histories & Life history strategies, dispersal strategies, Quantitative ecology.  
+Eco-Evolutionary dynamic, Integrative ecology, Evolution of life histories & Life history strategies, Dispersal strategies, Quantitative ecology, Computational biology.  
 
 
 ---
