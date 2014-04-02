@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /about/
 title: Research interests
 tags: [Jekyll, theme, responsive, blog, template]
 image:
