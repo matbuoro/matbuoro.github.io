@@ -14,7 +14,7 @@ My primary research goals are directed toward investigating _eco-evolutionary dy
 I'm particularly interested by _integrative approach_, i.e. integrating within a single and coherent framework demography and evolutionary processes, while explicitly represent the underlying mechanisms that generate our observations (e.g. proximate mechanisms or observation processes).  
 
 
-For that purpose, I developed skills in quantitative biology (or computational biology), including familiarity with Individual-Based Modeling and Hierarchical Bayesian Modeling to explore complex models (state-space modeling, structural equation modeling, and quantitative genetics methods). Within these frameworks, one can confront theories and concepts in evolutionary biology with observational data through appropriate statistical tools.  
+For that purpose, I developed skills in quantitative biology (or computational biology), including familiarity with Individual-Based Modeling and Hierarchical Bayesian Modeling to explore complex patterns and interactions. Within these frameworks, one can confront theories and concepts in evolutionary biology with observational data through appropriate statistical tools.  
   
 
 _Keywords:_    
