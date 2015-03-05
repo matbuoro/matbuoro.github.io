@@ -11,25 +11,19 @@ image:
 ---
 
 
-## In Press or Submitted
 
-**Buoro M.**, and S.M. Carlson. Life-history syndromes : integrating dispersal through space or time. *Ecology Letters* (In press).  [Link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12275/abstract)  
-
-___
-
-Corey C. P., J. W. Moore, **Buoro M.**, S. A. Hayes, J.C. Garza and D. E. Pearse. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, _Oncorhynchus mykiss_. (Submitted)
-
-___
-
-**Buoro M.**, Prévost E. and O. Gimenez. Explicit modelling of proximate mechanisms for revealing life-history trade-offs in wild conditions. (In prep.)
-
-___
-
-**Buoro M.**, Hwan J.L. and S.M. Carlson. Investigating the selective survival of threatened steelhead juveniles (_Oncorhynchus mykiss_) during summer low flow period using fitness surfaces and capture-recapture data. (In prep.)
 
 ___
 
 ## Published
+
+**Buoro M.**, and S.M. Carlson, 2014. Life-history syndromes : integrating dispersal through space or time. *Ecology Letters*.  [Link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12275/abstract)  
+
+___
+
+Corey C. P., J. W. Moore, **Buoro M.**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2014. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *PeerJ PrePrints* 2:e361v1 [Link](http://dx.doi.org/10.7287/peerj.preprints.361v1)
+
+___
 
 Gimenez O., Abadie F., Barnagaud J.Y., Blanc L., **Buoro M.**, Cubaynes S. et al., 2012. How can quantitative ecology be attractive to young scientists? Balancing computer/desk work with field work. *Animal Conservation*, 16:134-136. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-1795.2012.00597.x/abstract)  
 
@@ -60,3 +54,4 @@ Papaix J., Cubaynes S., **Buoro M.**, Charmantier A., Perret P. and O. Gimenez, 
 ___
 
 **Buoro M.**, Prévost E. and O. Gimenez, 2010. Investigating Evolutionary Trade-Offs in Wild Populations of Atlantic Salmon (*Salmo Salar*): Incorporating Detection Probabilities and Individual Heterogeneity. *Evolution*, 64(9):2629-42. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01029.x/abstract)  
+

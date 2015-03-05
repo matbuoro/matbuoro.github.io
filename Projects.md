@@ -46,15 +46,17 @@ The code of the LETM as well as an example of data are available in a github rep
 
 # Population dynamic, biological invasion and conservation 
 
+* **Causes and consequences of invasions of aquasystems by non-native salmonids**  
+
+Starting May 2014, I work in the Evolution and Biological Diversity laboratory (Aquatic Ecology and Global Change Lab) with Julien Cucherousset ([Link](http://www.juliencucherousset.fr/file/Home.html)). 
+
+Je travaille en collaboration avec Julien Cucherousset (CNRS) sur le projet européen Biodiversa SalmoInvade (ANR-Biodiversa) qui s’intéresse à identi- fier les causes et conséquences de l’invasion des écosystèmes par les salmonidés non-natifs. En effet, en plus des changements environnementaux et des pressions anthropiques qu’ils subissent, les salmonidés sont fortement exposés à l’introduction intentionnelle (repeuplement) ou non (échappement d’élevage) d’individus con- et hétérospécifique non-natifs. L’objectif de ce travail consiste à évaluer les impacts écologiques de ses invasions à différents niveaux d’organisation biologique allant des gènes aux écosystèmes. Ceci est réalisé via une méta-analyse pour quantifier l’intensité de ses impacts à l’échelle mondiale (Article [13], en préparation). Nous prédisons que les impacts seront plus importants aux niveaux des individus et des populations dans le cas d’invasions intra-spécifique alors que les invasions inter-spécifiques auront des impacts plus importants au niveau des communautés et écosystèmes. Aussi, nous avons mis en place une étude unique auprès des gestionnaires des milieux aquatiques français (AAPPMAs) visant également à quantifier les pratiques de gestion des salmonidés (repeuplements) et à en déterminer les causes sociales et écono- miques. 
+
 
 * **Dynamics of threatened steelhead juveniles (_Oncorhynchus mykiss_) in a seasonally fragmented stream habitat**  
 
 We use a state-spaced model to investigate the selective survival of a steelhead juveniles during drought period using Capture-recapture data. We hypothesize that the summer drought season may represent a population bottleneck, and that years of poor juvenile survival will translate to poor adult returns for that cohort.  
 
-
-* **Causes and consequences of invasions of aquasystems by non-native salmonids**  
-
-Starting May 2014, I will work in the Evolution and Biological Diversity laboratory (Aquatic Ecology and Global Change Lab) with Julien Cucherousset ([Link](http://www.juliencucherousset.fr/file/Home.html)). 
 
 ---
 
