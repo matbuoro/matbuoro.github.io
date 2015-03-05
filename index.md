@@ -24,18 +24,17 @@ Eco-Evolutionary dynamic, Integrative ecology, Evolution of life histories & Lif
 ---
 
 # Current position:  
-Posdoctoral fellow at the University of California, Berkeley. 
 
-* Quantitative Population Biology and Disease Ecology Group (Pr Wayne Getz Lab)  
-
-* Evolutionary Ecology of Freshwater Fishes Group (Dr. Stephanie M. Carlson Lab)  
+Posdoctoral fellow at the University Paul-Sabatier, Toulouse.  
+Evolution and Biological Diversity laboratory  
+AQUAECO team « Aquatic ecology and global changes »  
 
 ---
 
 # Contact:
 __Mathieu Buoro__  
-University of California, Berkeley  
-Department of Environmental Science, Policy & Management   
-137 Mulford Hall, Berkeley, CA, 94720-3114   
-email: matbuoro-at-berkeley.edu  
+UMR 5174 Evolution & Diversité Biologique  
+Bat 4R1 - Universite Paul Sabatier  
+118 Route de Narbonne, 31062 Toulouse, France   
+email: mathieu.buoro-at-univ-tlse3.fr  
 email: matbuoro-at-gmail.com
