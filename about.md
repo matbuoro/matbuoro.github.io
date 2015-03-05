@@ -25,16 +25,16 @@ For that purpose, I developed skills in quantitative biology, including familiar
 
 # Current position:  
 
-Posdoctoral fellow at the University Paul-Sabatier, Toulouse.
-Evolution and Biological Diversity laboratory
-AQUAECO team « Aquatic ecology and global changes »
+Posdoctoral fellow at the University Paul-Sabatier, Toulouse.  
+Evolution and Biological Diversity laboratory  
+AQUAECO team « Aquatic ecology and global changes »  
 
 ---
 
 # Contact:
 __Mathieu Buoro__  
-UMR 5174 Evolution & Diversité Biologique
-Bat 4R1 - Universite Paul Sabatier
-118 Route de Narbonne, 31062 Toulouse, France 
+UMR 5174 Evolution & Diversité Biologique  
+Bat 4R1 - Universite Paul Sabatier  
+118 Route de Narbonne, 31062 Toulouse, France   
 email: mathieu.buoro-at-univ-tlse3.fr  
 email: matbuoro-at-gmail.com
