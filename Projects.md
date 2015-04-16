@@ -50,9 +50,9 @@ The code of the LETM as well as an example of data are available in a github rep
 
 Starting May 2014, I work in the Evolution and Biological Diversity laboratory (Aquatic Ecology and Global Change Lab).
 
-I'm currently working with Julien Cucherousset ([Link](http://www.juliencucherousset.fr/file/Home.html)) as part of an European project Biodiversa SalmoInvade (ANR-Biodiversa; http://bioenv.gu.se/english/salmoinvade). Our objective is to investigate the ecological and evolutionary impacts of biological invasions by salmonids at different levels of biological organization, from genes to ecosystems. Indeed, in addition to environmental changes and human pressures they already suffer, native salmonids are exposed to continuous introductions of fellow species or non-native species, deliberately (stocking) or not (accidental escapement).
+I'm currently working with Julien Cucherousset ([Link](http://www.juliencucherousset.fr/file/Home.html)) as part of an European project Biodiversa SalmoInvade (ANR-Biodiversa; [Link](http://bioenv.gu.se/english/salmoinvade)). Our objective is to investigate the ecological and evolutionary impacts of biological invasions by salmonids at different levels of biological organization, from genes to ecosystems. Indeed, in addition to environmental changes and human pressures they already suffer, native salmonids are exposed to continuous introductions of fellow species or non-native species, deliberately (stocking) or not (accidental escapement).
 
-We also initiated a unique study of the management of aquatic ecosystems in France by local associations (AAPPMAs) to quantify the management practices (stocking) and to evaluate the social and economic causes ([Link] (http://enquete-aappma.ups-tlse.fr/enquete_AAPPMA/ACCUEIL.html)). 
+We also initiated a unique study of the management of aquatic ecosystems in France by local associations (AAPPMAs) to quantify the management practices (stocking) and to evaluate the social and economic causes ([Link](http://enquete-aappma.ups-tlse.fr/enquete_AAPPMA/ACCUEIL.html)). 
 
 
 * **Dynamics of threatened steelhead juveniles (_Oncorhynchus mykiss_) in a seasonally fragmented stream habitat**  
