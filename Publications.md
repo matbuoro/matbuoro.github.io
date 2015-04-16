@@ -21,8 +21,7 @@ ___
 
 ___
 
-Corey C. P., J. W. Moore, **Buoro M.**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2014. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *PeerJ PrePrints* 2:e361v1 [Link](http://dx.doi.org/10.7287/peerj.preprints.361v1)
-
+Corey C. P., J. W. Moore, **Buoro M.**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2014. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *Journal of Heredity*, Accepted.
 ___
 
 Gimenez O., Abadie F., Barnagaud J.Y., Blanc L., **Buoro M.**, Cubaynes S. et al., 2012. How can quantitative ecology be attractive to young scientists? Balancing computer/desk work with field work. *Animal Conservation*, 16:134-136. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-1795.2012.00597.x/abstract)  
