@@ -40,7 +40,7 @@ Conditional strategies are the most common form of discrete phenotypic plasticit
 The code of the LETM as well as an example of data are available in a github repository
  (see section "Code").
 
- ![Texte alternatif](/images/LETM-Figure3.jpg)
+ ![Texte alternatif](/images/LETM-Figure3.png)
 
 ---
 
