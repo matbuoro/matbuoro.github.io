@@ -11,7 +11,8 @@ image:
 ---
 
 
-Understanding the origin of life history variations of organisms, and then their capacity of adaptation to environmental change, requires studying life history strategies and evolutionary processes that drive them. My primary research goals are directed toward investigating _eco-evolutionary dynamics_. It involves exploring _life history evolution_, _dispersal strategies_ and associated _evolutionary processes_ in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditionalI strategies).  
+
+Understanding the origin of life history variations of organisms, and then their capacity of adaptation to environmental change, requires studying life history strategies and evolutionary processes that drive them. My primary research goals are directed toward investigating _eco-evolutionary dynamics_ and the impacts on demography _evolutionary demography_. It involves exploring _life history evolution_, _dispersal strategies_ and associated _evolutionary processes_ in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditional strategies).  
 
 
 
