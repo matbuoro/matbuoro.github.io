@@ -32,6 +32,7 @@ AQUAECO team « Aquatic ecology and global changes »
 # Future position:
 
 Research Scientist  
+INRA, National Institute of Agricultural Research  
 Behavioral Ecology and Fish Population Biology  
 UMR 1224 ECOBIOP  
 Aquapôle - Quartier Ibarron  
