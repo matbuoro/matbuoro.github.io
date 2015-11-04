@@ -31,12 +31,12 @@ AQUAECO team « Aquatic ecology and global changes »
 
 # Future position:
 
-Research Scientist
-Behavioral Ecology and Fish Population Biology
-UMR 1224 ECOBIOP
-Aquapôle - Quartier Ibarron
-64310 St Pée sur Nivelle
-France
+Research Scientist  
+Behavioral Ecology and Fish Population Biology  
+UMR 1224 ECOBIOP  
+Aquapôle - Quartier Ibarron  
+64310 St Pée sur Nivelle  
+France  
 
 ---
 
