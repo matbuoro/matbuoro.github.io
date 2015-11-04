@@ -15,7 +15,6 @@ image:
 
 ___
 
-## Published
 
 **Buoro M.**, J. Olden and J. Cucherousset. Investigating the ecological impacts of intra- and interspecific introductions: lessons from salmonid invasions. In prep.  
 
