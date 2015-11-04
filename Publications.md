@@ -17,13 +17,19 @@ ___
 
 ## Published
 
-**Buoro M.**, J. Olden and J. Cucherousset. Investigating the ecological impacts of intra- and interspecific introductions: lessons from salmonid invasions. In prep.
+**Buoro M.**, J. Olden and J. Cucherousset. Investigating the ecological impacts of intra- and interspecific introductions: lessons from salmonid invasions. In prep.  
 
-M. Alpa, J. Cucherousset, **Buoro M.**, and A. Lecerf. Phenological response of ecosystem functioning to biological invasion. *Ecology Letters*, Submitted.
+___
 
-Bruno A. Buzatto, **Mathieu Buoro**, Wade N. Hazel and Joseph L. Tomkins. Investigating the genetic architecture of conditional strategies using the Environmental Threshold Model. *Proceedings of the Royal Society B.*, Submitted.
+M. Alpa, J. Cucherousset, **Buoro M.**, and A. Lecerf. Phenological response of ecosystem functioning to biological invasion. *Ecology Letters*, Submitted.  
 
-Corey C. P., J. W. Moore, **Buoro M.**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2015. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *Journal of Heredity*, Accepted.
+___
+
+Bruno A. Buzatto, **Mathieu Buoro**, Wade N. Hazel and Joseph L. Tomkins. Investigating the genetic architecture of conditional strategies using the Environmental Threshold Model. *Proceedings of the Royal Society B.*, Submitted.  
+
+___
+
+Corey C. P., J. W. Moore, **Buoro M.**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2015. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *Journal of Heredity*, Accepted.  
 
 ___
 
