@@ -29,6 +29,17 @@ AQUAECO team « Aquatic ecology and global changes »
 
 ---
 
+# Future position:
+
+Research Scientist
+Behavioral Ecology and Fish Population Biology
+UMR 1224 ECOBIOP
+Aquapôle - Quartier Ibarron
+64310 St Pée sur Nivelle
+France
+
+---
+
 # Contact:
 __Mathieu Buoro__  
 UMR 5174 Evolution & Diversité Biologique  
