@@ -17,7 +17,11 @@ ___
 
 ## Published
 
+**Buoro M.**, J. Olden and J. Cucherousset. Investigating the ecological impacts of intra- and interspecific introductions: lessons from salmonid invasions. In prep.
 
+M. Alpa, J. Cucherousset, **Buoro M.**, and A. Lecerf. Phenological response of ecosystem functioning to biological invasion. *Ecology Letters*, Submitted.
+
+Bruno A. Buzatto, **Mathieu Buoro**, Wade N. Hazel and Joseph L. Tomkins. Investigating the genetic architecture of conditional strategies using the Environmental Threshold Model. *Proceedings of the Royal Society B.*, Submitted.
 
 Corey C. P., J. W. Moore, **Buoro M.**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2015. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *Journal of Heredity*, Accepted.
 
@@ -56,4 +60,6 @@ Papaix J., Cubaynes S., **Buoro M.**, Charmantier A., Perret P. and O. Gimenez, 
 ___
 
 **Buoro M.**, Prévost E. and O. Gimenez, 2010. Investigating Evolutionary Trade-Offs in Wild Populations of Atlantic Salmon (*Salmo Salar*): Incorporating Detection Probabilities and Individual Heterogeneity. *Evolution*, 64(9):2629-42. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01029.x/abstract)  
+
+
 
