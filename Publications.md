@@ -20,15 +20,15 @@ ___
 
 ___
 
-M. Alpa, J. Cucherousset, **Buoro M.**, and A. Lecerf. Phenological response of ecosystem functioning to biological invasion. *Ecology Letters*, Submitted.  
+M. Alpa, J. Cucherousset, **M. Buoro**, and A. Lecerf. Phenological response of ecosystem functioning to biological invasion. *Ecology Letters*, Submitted.  
 
 ___
 
-Bruno A. Buzatto, **Mathieu Buoro**, Wade N. Hazel and Joseph L. Tomkins. Investigating the genetic architecture of conditional strategies using the Environmental Threshold Model. *Proceedings of the Royal Society B.*, Submitted.  
+B. A. Buzatto^§^, **M. Buoro^§^**, W. N. Hazel and J.L. Tomkins. Investigating the genetic architecture of conditional strategies using the Environmental Threshold Model. *Proceedings of the Royal Society B.*, Submitted. (§ These authors contributed equally to the work)
 
 ___
 
-Corey C. P., J. W. Moore, **Buoro M.**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2015. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *Journal of Heredity*, Accepted.  
+Corey C. P., J. W. Moore, **M. Buoro**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2015. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *Journal of Heredity*, Accepted.  
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 ___
 
-Gimenez O., Abadie F., Barnagaud J.Y., Blanc L., **Buoro M.**, Cubaynes S. et al., 2012. How can quantitative ecology be attractive to young scientists? Balancing computer/desk work with field work. *Animal Conservation*, 16:134-136. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-1795.2012.00597.x/abstract)  
+Gimenez O., Abadie F., Barnagaud J.Y., Blanc L., **M. Buoro**, Cubaynes S. et al., 2012. How can quantitative ecology be attractive to young scientists? Balancing computer/desk work with field work. *Animal Conservation*, 16:134-136. [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-1795.2012.00597.x/abstract)  
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 ___
 
-Charmantier A., **Buoro M.**, Gimenez O. and H. Weimerskirch, 2011. Heritability of short-scale natal dispersal in a large-scale foraging bird, the wandering albatross. *Journal of Evolutionary Biology*, 24(7): 1487-1496. (These authors contributed equally to the work). [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2011.02281.x/abstract)  
+Charmantier A^§^, **M. Buoro^§^**, Gimenez O. and H. Weimerskirch, 2011. Heritability of short-scale natal dispersal in a large-scale foraging bird, the wandering albatross. *Journal of Evolutionary Biology*, 24(7): 1487-1496. (§ These authors contributed equally to the work). [Link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2011.02281.x/abstract)  
 
 ___
 
