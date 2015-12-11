@@ -43,8 +43,9 @@ links:
   #- title: Posts
   #  url: /posts/
   - title: Code
-    url: https://github.com/matbuoro
-    external: true
+    url: /code/
+  #  url: https://github.com/matbuoro
+  #  external: true
   #- title: CV
   #  url: https://github.com/matbuoro/CV/blob/master/pdfs/cv_buoro_en.pdf
   # external: true
