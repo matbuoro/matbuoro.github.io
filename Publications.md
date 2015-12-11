@@ -24,7 +24,7 @@ M. Alpa, J. Cucherousset, **M. Buoro**, and A. Lecerf. Phenological response of 
 
 ___
 
-B. A. Buzatto^§^, **M. Buoro^§^**, W. N. Hazel and J.L. Tomkins. Investigating the genetic architecture of conditional strategies using the Environmental Threshold Model. *Proceedings of the Royal Society B.*, Submitted. (§ These authors contributed equally to the work)
+B. A. Buzatto^§^, **M. Buoro^§^**, W. N. Hazel and J.L. Tomkins. Investigating the genetic architecture of conditional strategies using the Environmental Threshold Model. *Proceedings of the Royal Society B.*, Accepted. (§ These authors contributed equally to the work)
 
 ___
 
