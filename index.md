@@ -25,7 +25,7 @@ For that purpose, I developed skills in quantitative biology, including familiar
 __Mathieu Buoro__  
 Research Scientist  
 INRA, National Institute of Agricultural Research  
-[Behavioral Ecology and Fish Population Biology](http://www6.bordeaux-aquitaine.inra.fr/st_pee_eng/UMR-Ecobiop) 
+[Behavioral Ecology and Fish Population Biology](http://www6.bordeaux-aquitaine.inra.fr/st_pee_eng/UMR-Ecobiop)  
 UMR 1224 ECOBIOP  
 Aquapôle - Quartier Ibarron  
 64310 St Pée sur Nivelle  
