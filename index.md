@@ -23,7 +23,7 @@ For that purpose, I developed skills in quantitative biology, including familiar
 
 <img align="right" src="/images/inra.jpg" style="width: 200px;"/>
 
-<img align="right" src="/images/ecobiop.jpg" style="width: 200px;"/>
+<img align="right" src="/images/ecobiop.png" style="width: 200px;"/>
 
 # Contact:
 __Mathieu Buoro__  
