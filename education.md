@@ -1,6 +1,6 @@
 ---
-layout: post-index
-permalink: /education/
+layout: page
+permalink: /Education/
 title: Education
 tagline: CV
 tags: [cv]
