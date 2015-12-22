@@ -15,7 +15,7 @@ image:
 
 
 * **Postdoctoral researcher (2014–2015) , UMR 5174 (UPS, CNRS, ENFA), Toulouse, France**  
-Group: Evolution and Biological Diversity laboratory - (Aquatic Ecology and Global Change  Lab)  
+Group: Evolution and Biological Diversity laboratory - Aquatic Ecology and Global Change  Lab  
 *Causes and consequences of invasions of aquasystems by non-native salmonids*  
 
 

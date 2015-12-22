@@ -33,12 +33,12 @@ bing_verify:
 links:
   #- title: Research interests
   #  url: /about/
-  - title: Education
-    url: /Education/
-  - title: Publications
-    url: /Publications/
   - title: Projects
     url: /Projects/
+  - title: Publications
+    url: /Publications/
+  - title: Education
+    url: /Education/
   #- title: Posts
   #  url: /posts/
   - title: Code
