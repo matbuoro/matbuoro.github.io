@@ -8,7 +8,7 @@ owner:
   name:           Mathieu Buoro
   avatar:         bio-photo2.jpg
   bio:            Researcher Scientist INRA
-  email:          matbuoro@gmail.com
+  email:          mbuoro@st-pee.inra.fr
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:   matbuoro     
   facebook:       
@@ -47,9 +47,9 @@ links:
   #- title: Posts
   #  url: /posts/
   - title: Code
-    url: /code/
-  #  url: https://github.com/matbuoro
-  #  external: true
+  #  url: /code/
+    url: https://github.com/matbuoro
+    external: true
   #- title: CV
   #  url: https://github.com/matbuoro/CV/blob/master/pdfs/cv_buoro_en.pdf
   # external: true
