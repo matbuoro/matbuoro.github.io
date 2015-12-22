@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Education/
-title: Education
+title: 
 tagline: CV
 tags: [cv]
 image:
