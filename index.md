@@ -21,6 +21,8 @@ For that purpose, I developed skills in quantitative biology, including familiar
 
 ---
 
+<img align="right" src="/images/inra.jpg" />
+
 # Contact:
 __Mathieu Buoro__  
 Research Scientist  
