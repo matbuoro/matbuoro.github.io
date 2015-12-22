@@ -9,7 +9,7 @@ image:
 
 # Eco-evolutionary dynamics of freshwater fishes  
 
-My research interests focus on two related areas. The first is the adaptation of freshwater fish to environmental change. The second is the adapative management of fish populations.
+My research interests focus on two related areas. The first is the adaptation of freshwater fish to environmental changes. The second is the adaptative management of fish populations.
 
 My research combines the long-term monitoring of fish popualtions *in natura* via the tagging and tracking of individually-marked fish (e.g., Atlantic salmon population on the [Scorff river](https://www6.inra.fr/ore-pfc/Sites-d-etudes/Scorff)) and, by integrating local and scientific knowledge, to predict the response of populations to climate change and human pressure using  simulation methods (e.g., [IBASAM](https://github.com/Ibasam)). 
 
