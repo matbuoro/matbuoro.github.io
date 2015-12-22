@@ -21,7 +21,7 @@ For that purpose, I developed skills in quantitative biology, including familiar
 
 ---
 
-<img src="/images/inra.jpg" style="float:right width: 200px;"/>  
+<img align="right" src="/images/inra.jpg" style="width: 200px;"/>  
 
 
 # Contact:
@@ -34,4 +34,6 @@ Aquapôle - Quartier Ibarron
 64310 St Pée sur Nivelle  
 France    
 email: <mbuoro@st-pee.inra.fr>
+
+<img align="right" src="/images/ecobiop.jpg" style="width: 200px;"/>
 
