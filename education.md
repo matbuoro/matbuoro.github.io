@@ -25,10 +25,10 @@ Group: Quantitative Population Biology and Disease Ecology - Pr Wayne Getz Lab
 Science team member in the Nova platform (NOVA)  
 
 
-* ** Postdoctoral researcher (2012-2013), University of California, Berkeley, USA**  
+* **Postdoctoral researcher (2013-2014), University of California, Berkeley, USA**  
 Group: Evolutionary Ecology of Freshwater Fishes - Dr. Stephanie M. Carlson Lab  
-*Life history syndromes: Spatial and temporal dispersal as alternative strategies for persisting in stochastic environments*
-
+*Life history syndromes: Spatial and temporal dispersal as alternative strategies for persisting in stochastic environments  
+Dynamics of threatened steelhead juveniles (Oncorhynchus mykiss) in a seasonally fragmented stream habitat*  
 
 
 * **Ph.D (2008–2011), CEFE-CNRS, University of Montpellier II, France**  
