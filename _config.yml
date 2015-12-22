@@ -33,6 +33,8 @@ bing_verify:
 links:
   #- title: Research interests
   #  url: /about/
+  - title: Education
+    url: /Education/
   - title: Projects
     url: /Projects/
   - title: Publications
@@ -43,8 +45,6 @@ links:
   #  url: /code/
     url: https://github.com/matbuoro
     external: true
-  - title: Education
-    url: /Education/
   #  url: https://github.com/matbuoro/CV/blob/master/pdfs/cv_buoro_en.pdf
   # external: true
 

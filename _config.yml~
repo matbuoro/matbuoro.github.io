@@ -10,19 +10,14 @@ owner:
   bio:            Researcher Scientist INRA
   email:          mbuoro@st-pee.inra.fr
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:   matbuoro     
+  twitter:   matbuoro  
+  orcid: 0000-0001-7053-3767   
   facebook:       
   github:    matbuoro  
   stackoverflow: 
-  linkedin:       
-  instagram:      
-  lastfm:         
-  tumblr: 
-  pinterest: 
-  foursquare: 
-  steam: 
-  dribbble: 
-  orcid: 0000-0001-7053-3767
+  linkedin:               
+  tumblr:  
+
 
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
