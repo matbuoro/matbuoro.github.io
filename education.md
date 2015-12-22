@@ -13,6 +13,7 @@ image:
 ## Research experience  
 ---
 
+
 **2014–2015 Postdoctoral researcher, UMR 5174 (UPS, CNRS, ENFA), Toulouse, France**  
 Group Evolution and Biological Diversity laboratory - (Aquatic Ecology and Global Change  Lab)  
 *Causes and consequences of invasions of aquasystems by non-native salmonids*  
@@ -35,6 +36,8 @@ Group: Population Biology and Biostatistics
 *Evolutionary ecology in the wild using mark-recapture data: Atlantic salmon (Salmo salar) as a case study*  
 
 ## Education  
+---
+
 
 2008–2011 Ph.D, Population biology and Evolutionary Ecology, University of Montpellier II, France.   
 
