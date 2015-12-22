@@ -40,10 +40,10 @@ Group: Population Biology and Biostatistics
 
 
 2008–2011 Ph.D, Population biology and Evolutionary Ecology, University of Montpellier II, France.   
-
+---
 
 2006–2008 Master of Evolutionary Biology and Ecology, University of Montpellier II, France.  
-
+---
 
 2005–2006 Master of Aquatic ecosystem dynamics, University of Pau (UPPA), France.  
-
+---
