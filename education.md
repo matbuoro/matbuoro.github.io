@@ -15,7 +15,8 @@ image:
 
 
 * **Postdoctoral researcher (2014–2015) , UMR 5174 (UPS, CNRS, ENFA), Toulouse, France**  
-Group: Evolution and Biological Diversity laboratory - Aquatic Ecology and Global Change  Lab  
+Group: Evolution and Biological Diversity laboratory - Aquatic Ecology and Global Change  Lab  (with [Julien Cucherousset](http://www.juliencucherousset.fr/file/Home.html))  
+As part of the european project ANR-Biodiversa [SalmoInvade](http://bioenv.gu.se/english/salmoinvade)  
 *Causes and consequences of invasions of aquasystems by non-native salmonids*  
 
 
@@ -32,7 +33,7 @@ Dynamics of threatened steelhead juveniles (Oncorhynchus mykiss) in a seasonally
 
 
 * **Ph.D (2008–2011), CEFE-CNRS, University of Montpellier II, France**  
-Group: Population Biology and Biostatistics  (with Oliver Gimenez)  
+Group: Population Biology and Biostatistics  (with [Oliver Gimenez](https://oliviergimenez.wordpress.com/) & [Etienne Prévost](https://www6.bordeaux-aquitaine.inra.fr/st_pee/UMR-Ecobiop/Fiches-chercheurs/Etienne-Prevost))  
 *Evolutionary ecology in the wild using mark-recapture data: Atlantic salmon (Salmo salar) as a case study*  
 
 ## Education  
