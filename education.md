@@ -14,6 +14,10 @@ image:
 ---
 
 
+* **Research scientist (since 2015), INRA, UMR 1224 ECOBIOP, St Pée sur Nivelle, France**  
+[Behavioral Ecology and Fish Population Biology](http://www6.bordeaux-aquitaine.inra.fr/st_pee_eng/UMR-Ecobiop)  
+*Adaptation and management of freshwater fishes*
+
 * **Postdoctoral researcher (2014–2015) , UMR 5174 (UPS, CNRS, ENFA), Toulouse, France**  
 Group: Evolution and Biological Diversity laboratory - Aquatic Ecology and Global Change  Lab  (with [Julien Cucherousset](http://www.juliencucherousset.fr/file/Home.html))  
 As part of the european project ANR-Biodiversa [SalmoInvade](http://bioenv.gu.se/english/salmoinvade)  
