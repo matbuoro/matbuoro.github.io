@@ -5,7 +5,7 @@ title:
 tagline: CV
 tags: [cv]
 image:
-  feature: yosemite.jpg
+  feature: joshua2.jpg
   credit: Mathieu Buoro
 ---
 
