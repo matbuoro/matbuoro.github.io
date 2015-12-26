@@ -5,7 +5,7 @@ title:
 tagline: CV
 tags: [cv]
 image:
-  feature: texture-feature-05.jpg
+  feature: NZ.jpg
   credit: Mathieu Buoro
 ---
 
