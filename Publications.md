@@ -13,22 +13,17 @@ image:
 
 
 
+
+
+
+M. Alpa, J. Cucherousset, **M. Buoro**, and A. Lecerf, 2016. Phenological response of ecosystem functioning to biological invasion. *Ecology Letters*, Accepted.  
 ___
 
-
-**Buoro M.**, J. Olden and J. Cucherousset. Investigating the ecological impacts of intra- and interspecific introductions: lessons from salmonid invasions. In prep.  
-
-___
-
-M. Alpa, J. Cucherousset, **M. Buoro**, and A. Lecerf. Phenological response of ecosystem functioning to biological invasion. *Ecology Letters*, In revision.  
-
-___
-
-B. A. Buzatto^§^, **M. Buoro^§^**, W. N. Hazel and J.L. Tomkins. Investigating the genetic architecture of conditional strategies using the Environmental Threshold Model. *Proceedings of the Royal Society B.*,  [Link](http://rspb.royalsocietypublishing.org/content/282/1821/20152075) . (§ These authors contributed equally to the work)
+Corey C. P., J. W. Moore, **M. Buoro**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2016. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *Journal of Heredity*. [Link](http://jhered.oxfordjournals.org/content/107/1/51.abstract)  
 
 ___
 
-Corey C. P., J. W. Moore, **M. Buoro**, S. A. Hayes, J.C. Garza and D. E. Pearse., 2015. Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, Oncorhynchus mykiss. *Journal of Heredity*. [Link](http://jhered.oxfordjournals.org/content/107/1/51.abstract)  
+B. A. Buzatto^§^, **M. Buoro^§^**, W. N. Hazel and J.L. Tomkins, 2015. Investigating the genetic architecture of conditional strategies using the Environmental Threshold Model. *Proceedings of the Royal Society B.*,  [Link](http://rspb.royalsocietypublishing.org/content/282/1821/20152075) . (§ These authors contributed equally to the work)
 
 ___
 
