@@ -14,9 +14,12 @@ image:
 
 
 
+**M. Buoro**, J. D. Olden and J. Cucherousset, 2016. Global Salmonidae introductions reveal stronger ecological effects of changing intraspecific compared to interspecific diversity. *Ecology Letters*, Accepted.  
+
+___
 
 
-M. Alpa, J. Cucherousset, **M. Buoro**, and A. Lecerf, 2016. Phenological response of ecosystem functioning to biological invasion. *Ecology Letters*, Accepted.  
+M. Alpa, J. Cucherousset, **M. Buoro**, and A. Lecerf, 2016. Phenological response of ecosystem functioning to biological invasion. *Ecology Letters*, [Link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12585/full).  
 
 ___
 
