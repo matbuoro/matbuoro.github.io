@@ -30,7 +30,6 @@ I developed skills in quantitative biology, including familiarity with Individua
 
 ---
 
-<img align="right" src="/images/inra.jpg" style="width: 200px;"/>  
 
 
 # Contact:
@@ -44,6 +43,8 @@ Aquapôle - Quartier Ibarron
 France    
 email: <mbuoro@st-pee.inra.fr>
 
-<img align="right" src="/images/ecobiop.jpg" style="width: 200px;"/>
+<img align="left" src="/images/inra.jpg" style="width: 200px;"/>  
 
-<img align="right" src="/images/uppa.png" style="width: 200px;"/>
+<img align="left" src="/images/ecobiop.jpg" style="width: 200px;"/>
+
+<img align="left" src="/images/uppa.png" style="width: 200px;"/>
