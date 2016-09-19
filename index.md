@@ -46,3 +46,4 @@ email: <mbuoro@st-pee.inra.fr>
 
 <img align="right" src="/images/ecobiop.jpg" style="width: 200px;"/>
 
+<img align="right" src="/images/uppa.png" style="width: 200px;"/>
