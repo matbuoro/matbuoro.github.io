@@ -44,8 +44,8 @@ France
 email: <mbuoro@st-pee.inra.fr>
 
 
-<img style="float: left; margin: 0px 100px 15px 15px;" src="/images/inra.jpg" style="width: 200px;"/>  
+<img style="float: left; margin: 0px 0px 15px 15px;" src="/images/inra.jpg" style="width: 200px;"/>  
 
-<img style="float: left; margin: 0px 100px 15px 15px;" src="/images/ecobiop.jpg" style="width: 200px;"/>
+<img style="float: left; margin: 0px 0px 15px 15px;" src="/images/ecobiop.jpg" style="width: 200px;"/>
 
-<img style="float: left; margin: 0px 100px 15px 15px;" src="/images/uppa.png" style="width: 200px;"/>
+<img style="float: left; margin: 0px 0px 15px 15px;" src="/images/uppa.png" style="width: 200px;"/>
