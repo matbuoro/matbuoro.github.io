@@ -43,8 +43,9 @@ Aquapôle - Quartier Ibarron
 France    
 email: <mbuoro@st-pee.inra.fr>
 
-<img align="left" src="/images/inra.jpg" style="width: 200px;"/>  
 
-<img align="left" src="/images/ecobiop.jpg" style="width: 200px;"/>
+<img style="float: left; margin: 0px 100px 15px 15px;" src="/images/inra.jpg" style="width: 200px;"/>  
 
-<img align="left" src="/images/uppa.png" style="width: 200px;"/>
+<img style="float: left; margin: 0px 100px 15px 15px;" src="/images/ecobiop.jpg" style="width: 200px;"/>
+
+<img style="float: left; margin: 0px 100px 15px 15px;" src="/images/uppa.png" style="width: 200px;"/>
