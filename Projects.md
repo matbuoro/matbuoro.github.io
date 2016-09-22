@@ -22,6 +22,28 @@ image:
 
 ---
 
+
+# Population dynamic, biological invasion and conservation 
+
+* **Portfolio conservation of atlantic salmon under climate change**
+
+In collaboration with [Stephanie M. Carlson](http://nature.berkeley.edu/carlsonlab/), I explore the influence of life history diversity within and among populations on persistence. The aim is to predict the response of populations to climate change and human pressure using simulation methods (e.g., IBASAM) taking into account the life history strategies, especially the dispersal strategies.
+
+
+* **Causes and consequences of invasions of aquasystems by non-native salmonids**  
+
+I'm currently working with Julien Cucherousset ([Link](http://www.juliencucherousset.fr/file/Home.html)) as part of the european project Biodiversa *SalmoInvade* (ANR-Biodiversa; [Link](http://bioenv.gu.se/english/salmoinvade)). Our objective is to investigate the ecological and evolutionary impacts of biological invasions by salmonids at different levels of biological organization, from genes to ecosystems. Indeed, in addition to environmental changes and human pressures they already suffer, native salmonids are exposed to continuous introductions of fellow species or non-native species, deliberately (stocking) or not (accidental escapement).
+
+We also initiated a unique study of the management of aquatic ecosystems in France to quantify the management practices (stocking) and to evaluate the social and economic causes ([Link](http://enquete-aappma.ups-tlse.fr/enquete_AAPPMA/ACCUEIL.html)). 
+
+
+* **Dynamics of threatened steelhead juveniles (_Oncorhynchus mykiss_) in a seasonally fragmented stream habitat**  
+
+We use a state-spaced model to investigate the selective survival of a steelhead juveniles during drought period using Capture-recapture data. We hypothesize that the summer drought season may represent a population bottleneck, and that years of poor juvenile survival will translate to poor adult returns for that cohort.  
+
+
+---
+
 # Evolution of life histories & Life history strategies  
 
 
@@ -44,35 +66,4 @@ The code of the LETM as well as an example of data are available in a github rep
 
 ---
 
-# Population dynamic, biological invasion and conservation 
-
-* **Causes and consequences of invasions of aquasystems by non-native salmonids**  
-
-Starting May 2014, I work in the Evolution and Biological Diversity laboratory (Aquatic Ecology and Global Change Lab).
-
-I'm currently working with Julien Cucherousset ([Link](http://www.juliencucherousset.fr/file/Home.html)) as part of the european project Biodiversa *SalmoInvade* (ANR-Biodiversa; [Link](http://bioenv.gu.se/english/salmoinvade)). Our objective is to investigate the ecological and evolutionary impacts of biological invasions by salmonids at different levels of biological organization, from genes to ecosystems. Indeed, in addition to environmental changes and human pressures they already suffer, native salmonids are exposed to continuous introductions of fellow species or non-native species, deliberately (stocking) or not (accidental escapement).
-
-We also initiated a unique study of the management of aquatic ecosystems in France to quantify the management practices (stocking) and to evaluate the social and economic causes ([Link](http://enquete-aappma.ups-tlse.fr/enquete_AAPPMA/ACCUEIL.html)). 
-
-
-* **Dynamics of threatened steelhead juveniles (_Oncorhynchus mykiss_) in a seasonally fragmented stream habitat**  
-
-We use a state-spaced model to investigate the selective survival of a steelhead juveniles during drought period using Capture-recapture data. We hypothesize that the summer drought season may represent a population bottleneck, and that years of poor juvenile survival will translate to poor adult returns for that cohort.  
-
-
----
-
-# Simulating evolutionary processes & Movement ecology  
-
-
-In the Pr Wayne Getz Lab ([Link](http://nature.berkeley.edu/getzlab/index.html)) at UC Berkeley and as a science team member in the Nova platform ([Link](http://www.novamodeler.com/team/)), I worked on 2 projects using Individual-Based Model:  
-
-* **Investigating foraging strategies of Vultures**  
-
-* **Simulating detection process by camera-trapping**   
-
----
-
-
-# Collaborators
   
