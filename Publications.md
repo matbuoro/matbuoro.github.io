@@ -11,6 +11,7 @@ image:
 ---
 
 
+Siepielski, A.M, M. B. Morrissey, **M. Buoro**, S. M. Carlson, C.M. Caruso, S. M. Clegg, T. Coulson, J. Di Battista, K. M. Gotanda, C. D. Francis, J. Hereford, J. G. Kingsolver, L. E.B. Kruuk, R.A. Martin, B. C. Sheldon, N. Sletvold, E. I. Svensson, M. J. Wade, and A.D.C. MacColl. 2017. Precipitation drives global variation in natural selection. *Science* [Link](http://science.sciencemag.org/content/355/6328/959/tab-article-info)
 
 
 
