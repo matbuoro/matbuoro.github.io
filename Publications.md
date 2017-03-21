@@ -10,6 +10,9 @@ image:
   credit: Mathieu Buoro
 ---
 
+Lepais, O., Manicki, A., Glise, S., **Buoro, M.**, & Bardonnet, A. 2017. Genetic architecture of threshold reaction norms for male alternative reproductive tactics in Atlantic salmon (*Salmo salar L.*). Scientific Reports, 7:43552. doi:  10.1038/srep43552 [Link](http://www.nature.com/articles/srep43552) 
+
+___
 
 
 Siepielski, A.M, M. B. Morrissey, **M. Buoro**, S. M. Carlson, C.M. Caruso, S. M. Clegg, T. Coulson, J. Di Battista, K. M. Gotanda, C. D. Francis, J. Hereford, J. G. Kingsolver, L. E.B. Kruuk, R.A. Martin, B. C. Sheldon, N. Sletvold, E. I. Svensson, M. J. Wade, and A.D.C. MacColl. 2017. Precipitation drives global variation in natural selection. *Science* [Link](http://science.sciencemag.org/content/355/6328/959/tab-article-info)  
