@@ -26,7 +26,7 @@ image:
 
 * **Portfolio conservation of atlantic salmon under climate change**
 
-I explore the influence of life history diversity within and among populations on persistence. The aim is to predict the response of populations to climate change and human pressure using simulation methods (e.g., IBASAM) taking into account the diversity of life history strategies, notably the dispersal strategies (in collaboration with [Stephanie M. Carlson](http://nature.berkeley.edu/carlsonlab/))
+I explore the influence of life history diversity within and among populations on persistence. The aim is to predict the response of populations to climate change and human pressures using simulation methods (e.g., IBASAM) taking into account the diversity of life history strategies, notably the dispersal strategies (in collaboration with [Stephanie M. Carlson](http://nature.berkeley.edu/carlsonlab/))
 
 
 * **Causes and consequences of invasions of aquasystems by non-native salmonids**  
