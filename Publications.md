@@ -10,7 +10,16 @@ image:
   credit: Mathieu Buoro
 ---
 
-Lepais, O., Manicki, A., Glise, S., **Buoro, M.**, & Bardonnet, A. 2017. Genetic architecture of threshold reaction norms for male alternative reproductive tactics in Atlantic salmon (*Salmo salar L.*). Scientific Reports, 7:43552. doi:  10.1038/srep43552 [Link](http://www.nature.com/articles/srep43552) 
+
+Hwan, J. L., Fernández-Chacón, A., **Buoro, M.**, Carlson, S. M. (2017). Dry season survival of juvenile salmonids in an intermittent coastal stream. *Canadian Journal of Fisheries and Aquatic Sciences*, online first. DOI : 10.1139/cjfas-2017-0026
+
+___
+
+Raffard, A., Lecerf, A., Cote, J., **Buoro, M.**, Lassus, R., & Cucherousset, J. (2017). The functional syndrome: linking individual trait variability to ecosystem functioning. *Proceedings of the Royal Society B.*, 284:1868. DOI: 10.1098/rspb.2017.1893
+
+___
+
+Lepais, O., Manicki, A., Glise, S., **Buoro, M.**, & Bardonnet, A. 2017. Genetic architecture of threshold reaction norms for male alternative reproductive tactics in Atlantic salmon (*Salmo salar L.*). *Scientific Reports*, 7:43552. doi:  10.1038/srep43552 [Link](http://www.nature.com/articles/srep43552) 
 
 ___
 
