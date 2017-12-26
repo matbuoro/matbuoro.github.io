@@ -34,4 +34,4 @@ UMR 1224 ECOBIOP
 Aquapôle - Quartier Ibarron  
 64310 St Pée sur Nivelle  
 France    
-email: mbuoro-at-st-pee.inra.fr 
+email: mathieu.buoro-at-inra.fr 
