@@ -8,7 +8,7 @@ image:
 ---
 
 
-# Eco-evolutionary dynamics of freshwater fishes
+**Eco-evolutionary dynamics of freshwater fishes**
 
 My research interests focus on two related areas. The first is the adaptation of freshwater fish to environmental changes. The second is the adaptative management of fish populations.
 
