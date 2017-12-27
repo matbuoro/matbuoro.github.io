@@ -26,7 +26,7 @@ image:
 
 * **Portfolio conservation of atlantic salmon under climate change**
 
-I explore the influence of life history diversity within and among populations on persistence. The aim is to predict the response of populations to climate change and human pressures using simulation methods (e.g., IBASAM) taking into account the diversity of life history strategies, notably the dispersal strategies.
+I explore the influence of life history diversity within and among populations on persistence. The aim is to predict the response of populations to climate change and human pressures using simulation methods (e.g., [IBASAM](http://ibasam.github.io/IBASAM/)) taking into account the diversity of life history strategies, notably the dispersal strategies.
 
 
 * **Causes and consequences of invasions of aquasystems by non-native salmonids**  
@@ -38,7 +38,7 @@ We also initiated a unique study of the management of aquatic ecosystems in Fran
 
 * **Dynamics of threatened steelhead juveniles (_Oncorhynchus mykiss_) in a seasonally fragmented stream habitat**  
 
-This project was initiated during my postdoc with [Stephanie M. Carlson](http://nature.berkeley.edu/carlsonlab/)). We use a state-spaced model to investigate the selective survival of a steelhead juveniles during drought period using Capture-recapture data. We hypothesize that the summer drought season may represent a population bottleneck, and that years of poor juvenile survival will translate to poor adult returns for that cohort. 
+This project was initiated during my postdoc with [Stephanie M. Carlson](http://nature.berkeley.edu/carlsonlab/). We use a state-spaced model to investigate the selective survival of a steelhead juveniles during drought period using Capture-recapture data. We hypothesize that the summer drought season may represent a population bottleneck, and that years of poor juvenile survival will translate to poor adult returns for that cohort. 
 
 ---
 
