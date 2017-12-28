@@ -9,10 +9,9 @@ image:
   credit: Mathieu Buoro
 ---
 
-
-## Research experience  
 ---
 
+## Research experience 
 
 * **Research scientist (since 2015), INRA, UMR 1224 ECOBIOP, St Pée sur Nivelle, France**  
 [Behavioral Ecology and Fish Population Biology](http://www6.bordeaux-aquitaine.inra.fr/st_pee_eng/UMR-Ecobiop)  
