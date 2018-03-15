@@ -30,7 +30,8 @@ To do so, I explore the influence of connectivity between populations via spatia
 
 This project aims to produce new knowledge regarding the adaptation of exploited salmon populations under climate change and to explore innovative management practices that favor their conservation/resilience using the portfolio approach. Ultimately, we hope to provide new management recommendations to local, national and international organizations in charge of salmon conservation by demonstrating that conservation and management actions should embrace the portfolio theory by managing aquatic ecosystems at a larger scale (watersheds, metapopulation) and through management actions that enhance population diversity.
  
-![Texte alternatif](/images/portfolio.jpg)
+![](/images/portfolio.jpg)
+Hypothetical illustration of metapopulation and populations abundance time series for three Atlantic salmon populations (rivers) of the Adour system (Pyrénées atlantiques, France). PE metric measures the increase in stability due to population diversity within a metapopulation, a set of interconnected populations. Populations are characterized by life history diversity, and populations experience diverse local environmental conditions leading to a diversity of responses. Inspired from Anderson et al. (2013).
 
 * **Causes and consequences of invasions of aquasystems by non-native salmonids**  
 
