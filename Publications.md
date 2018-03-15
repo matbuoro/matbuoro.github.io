@@ -11,6 +11,14 @@ image:
 ---
 
 
+Siepielski, Adam M., Michael B. Morrissey, Mathieu Buoro, Stephanie M. Carlson, Christina M. Caruso, Sonya M. Clegg, Tim Coulson et al. "Response to Comment on “Precipitation drives global variation in natural selection”." Science 359, no. 6374 (2018): eaan5760.
+
+___
+
+Riepe, C., Fujitani, M., Cucherousset, J., Pagel, T.,**Buoro, M.**, Santoul, F., ... & Arlinghaus, R. (2017). What determines the behavioral intention of local-level fisheries managers to alter fish stocking practices in freshwater recreational fisheries of two European countries?. *Fisheries Research*, 194, 173-187.
+
+___
+
 Hwan, J. L., Fernández-Chacón, A., **Buoro, M.**, Carlson, S. M. (2017). Dry season survival of juvenile salmonids in an intermittent coastal stream. *Canadian Journal of Fisheries and Aquatic Sciences*, online first. DOI : 10.1139/cjfas-2017-0026
 
 ___
