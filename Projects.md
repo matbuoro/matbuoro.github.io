@@ -26,8 +26,11 @@ image:
 
 * **Portfolio conservation of atlantic salmon under climate change**
 
-I explore the influence of life history diversity within and among populations on persistence. The aim is to predict the response of populations to climate change and human pressures using simulation methods (e.g., [IBASAM](http://ibasam.github.io/IBASAM/)) taking into account the diversity of life history strategies, notably the dispersal strategies.
+To do so, I explore the influence of connectivity between populations via spatial dispersal as well as life history diversity within and among populations on persistence. The aim is to predict the response of populations to climate change and human pressures using simulation methods (e.g., [IBASAM](http://ibasam.github.io/IBASAM/)) taking into account the diversity of life history strategies, notably the dispersal strategies.
 
+This project aims to produce new knowledge regarding the adaptation of exploited salmon populations under climate change and to explore innovative management practices that favor their conservation/resilience using the portfolio approach. Ultimately, we hope to provide new management recommendations to local, national and international organizations in charge of salmon conservation by demonstrating that conservation and management actions should embrace the portfolio theory by managing aquatic ecosystems at a larger scale (watersheds, metapopulation) and through management actions that enhance population diversity.
+ 
+![Texte alternatif](/images/portfolio.jpg)
 
 * **Causes and consequences of invasions of aquasystems by non-native salmonids**  
 
